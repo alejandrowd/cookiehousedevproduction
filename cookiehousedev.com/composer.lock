@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "2d2fe47425e339178f08fc421ec0fb97",
+    "content-hash": "8a97934714fcd72864ecc74db3b7e7e4",
     "packages": [
         {
             "name": "alejandrowd/js_composer",
@@ -484,6 +484,62 @@
                 "zikula"
             ],
             "time": "2018-08-27T06:10:37+00:00"
+        },
+        {
+            "name": "deliciousbrains-plugin/wp-migrate-db-pro",
+            "version": "1.8.6",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=1.8.6&composer_key=C238F1950BBB8078E6628F5A422284EA",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "deliciousbrains-plugin/wp-migrate-db-pro-cli",
+            "version": "1.3.3",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-cli&version=1.3.3&composer_key=C238F1950BBB8078E6628F5A422284EA",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "deliciousbrains-plugin/wp-migrate-db-pro-media-files",
+            "version": "1.4.10",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=1.4.10&composer_key=C238F1950BBB8078E6628F5A422284EA",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "deliciousbrains-plugin/wp-migrate-db-pro-multisite-tools",
+            "version": "1.2.1",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-multisite-tools&version=1.2.1&composer_key=C238F1950BBB8078E6628F5A422284EA",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin"
         },
         {
             "name": "johnpbloch/wordpress",
