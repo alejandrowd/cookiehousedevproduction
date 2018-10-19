@@ -103,3 +103,4 @@ Config::apply();
 if (!defined('ABSPATH')) {
     define('ABSPATH', $webroot_dir . '/wp/');
 }
+define( 'WPMDB_LICENCE', 'f4978ac4-d00c-46f5-a26b-c333cc6e30ad' );

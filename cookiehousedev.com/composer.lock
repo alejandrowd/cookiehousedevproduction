@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "8a97934714fcd72864ecc74db3b7e7e4",
+    "content-hash": "fdce9f8a64c4f85f20c2bc8605397933",
     "packages": [
         {
             "name": "alejandrowd/js_composer",
@@ -882,15 +882,15 @@
         },
         {
             "name": "wpackagist-plugin/wp-ultimate-csv-importer",
-            "version": "5.3.6",
+            "version": "5.3.7",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/wp-ultimate-csv-importer/",
-                "reference": "tags/5.3.6"
+                "reference": "trunk"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/wp-ultimate-csv-importer.5.3.6.zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-ultimate-csv-importer.zip?timestamp=1539757889",
                 "reference": null,
                 "shasum": null
             },
@@ -899,6 +899,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-ultimate-csv-importer/"
+        },
+        {
+            "name": "wpackagist-plugin/zoho-mail",
+            "version": "1.2.4",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/zoho-mail/",
+                "reference": "tags/1.2.4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/zoho-mail.1.2.4.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/zoho-mail/"
         }
     ],
     "packages-dev": [
