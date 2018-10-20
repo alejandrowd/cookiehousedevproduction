@@ -4,8 +4,43 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "fdce9f8a64c4f85f20c2bc8605397933",
+    "content-hash": "1d7ec600afcb128fbee9a8b88c96bb2d",
     "packages": [
+        {
+            "name": "alejandrowd/advanced-custom-fields-pro",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:alejandrowd/advanced-custom-fields-pro.git",
+                "reference": "5efa45b49db9f4488ffe176ef6fdaab72b073ed7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alejandrowd/advanced-custom-fields-pro/zipball/5efa45b49db9f4488ffe176ef6fdaab72b073ed7",
+                "reference": "5efa45b49db9f4488ffe176ef6fdaab72b073ed7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.6"
+            },
+            "type": "wordpress-plugin",
+            "authors": [
+                {
+                    "name": "Private Repository",
+                    "homepage": "https://github.com/alejandrowd/advanced-custom-fields-pro"
+                }
+            ],
+            "homepage": "https://github.com/alejandrowd/advanced-custom-fields-pro",
+            "keywords": [
+                "plugin",
+                "wordpress"
+            ],
+            "support": {
+                "source": "https://github.com/alejandrowd/advanced-custom-fields-pro/tree/master",
+                "issues": "https://github.com/alejandrowd/advanced-custom-fields-pro/issues"
+            },
+            "time": "2018-10-20T02:36:59+00:00"
+        },
         {
             "name": "alejandrowd/js_composer",
             "version": "dev-master",
@@ -1181,6 +1216,7 @@
         "alejandrowd/woocommerce": 20,
         "alejandrowd/woocommerce-point-of-sale": 20,
         "alejandrowd/woo-customer-relationship-manager": 20,
+        "alejandrowd/advanced-custom-fields-pro": 20,
         "roave/security-advisories": 20
     },
     "prefer-stable": false,
