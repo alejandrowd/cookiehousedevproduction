@@ -77,7 +77,7 @@
     },
     {
       "type": "vcs",
-      "url": "git@github.com:alejandrowd/advanced-custom-fields-pro.git"
+      "url": "git@github.com:alejandrowd/advanced-custom-fields.git"
     }
 
   ],
@@ -99,7 +99,7 @@
     "alejandrowd/woocommerce": "dev-master",
     "alejandrowd/woocommerce-point-of-sale": "dev-master",
     "alejandrowd/woo-customer-relationship-manager": "dev-master",
-    "alejandrowd/advanced-custom-fields-pro": "dev-master",
+    "alejandrowd/advanced-custom-fields": "dev-master",
     "wpackagist-plugin/wordpress-importer":"*",
     "wpackagist-plugin/wp-ultimate-csv-importer":"*",
     "deliciousbrains-plugin/wp-migrate-db-pro": "^1.8",

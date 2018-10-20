@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1d7ec600afcb128fbee9a8b88c96bb2d",
+    "content-hash": "2b770ef6393a6745fc950f55c8152e80",
     "packages": [
         {
-            "name": "alejandrowd/advanced-custom-fields-pro",
+            "name": "alejandrowd/advanced-custom-fields",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@github.com:alejandrowd/advanced-custom-fields-pro.git",
-                "reference": "5efa45b49db9f4488ffe176ef6fdaab72b073ed7"
+                "url": "git@github.com:alejandrowd/advanced-custom-fields.git",
+                "reference": "7c4b0d3f8983c71369b840c8c1cde5737992a690"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alejandrowd/advanced-custom-fields-pro/zipball/5efa45b49db9f4488ffe176ef6fdaab72b073ed7",
-                "reference": "5efa45b49db9f4488ffe176ef6fdaab72b073ed7",
+                "url": "https://api.github.com/repos/alejandrowd/advanced-custom-fields/zipball/7c4b0d3f8983c71369b840c8c1cde5737992a690",
+                "reference": "7c4b0d3f8983c71369b840c8c1cde5737992a690",
                 "shasum": ""
             },
             "require": {
@@ -27,19 +27,19 @@
             "authors": [
                 {
                     "name": "Private Repository",
-                    "homepage": "https://github.com/alejandrowd/advanced-custom-fields-pro"
+                    "homepage": "https://github.com/alejandrowd/advanced-custom-fields"
                 }
             ],
-            "homepage": "https://github.com/alejandrowd/advanced-custom-fields-pro",
+            "homepage": "https://github.com/alejandrowd/advanced-custom-fields",
             "keywords": [
                 "plugin",
                 "wordpress"
             ],
             "support": {
-                "source": "https://github.com/alejandrowd/advanced-custom-fields-pro/tree/master",
-                "issues": "https://github.com/alejandrowd/advanced-custom-fields-pro/issues"
+                "source": "https://github.com/alejandrowd/advanced-custom-fields/tree/master",
+                "issues": "https://github.com/alejandrowd/advanced-custom-fields/issues"
             },
-            "time": "2018-10-20T02:36:59+00:00"
+            "time": "2018-10-20T06:09:41+00:00"
         },
         {
             "name": "alejandrowd/js_composer",
@@ -1216,7 +1216,7 @@
         "alejandrowd/woocommerce": 20,
         "alejandrowd/woocommerce-point-of-sale": 20,
         "alejandrowd/woo-customer-relationship-manager": 20,
-        "alejandrowd/advanced-custom-fields-pro": 20,
+        "alejandrowd/advanced-custom-fields": 20,
         "roave/security-advisories": 20
     },
     "prefer-stable": false,
